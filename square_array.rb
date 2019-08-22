@@ -1,4 +1,6 @@
 def square_array(array)
-  # your code herel
-  array.each {|num| puts num ** 2}
+  # your code here
+  arr = []
+  array.each {|num| arr << puts num ** 2}
+  arr
 end
