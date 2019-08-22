@@ -4,5 +4,3 @@ def square_array(array)
     num ** 2
   end
 end
-
-square_array
